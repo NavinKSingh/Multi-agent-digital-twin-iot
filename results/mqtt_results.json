@@ -1,0 +1,12 @@
+{
+  "broker": "broker.hivemq.com",
+  "devices": 5,
+  "steps": 200,
+  "sent": 1000,
+  "received": 1000,
+  "loss_percent": 0.0,
+  "latency_ms_mean": 561.0,
+  "latency_ms_median": 291.2,
+  "latency_ms_p95": 2168.0,
+  "latency_ms_max": 3175.3
+}

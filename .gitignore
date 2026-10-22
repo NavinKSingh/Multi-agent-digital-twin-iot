@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.DS_Store
+# large raw dataset file (download it yourself, see README)
+data/LCL-*.csv
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
